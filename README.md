@@ -77,11 +77,3 @@ src/App.jsx                  Main application and UI
 If you already ran an older version of `schema.sql`, run the latest `supabase/schema.sql` updates in the Supabase SQL Editor.
 
 New projects can simply run the current `schema.sql` from the beginning.
-
-## Future Improvements
-
-* More buddy-streak tracking
-* Rotating daily quests
-* Seasonal cozy-world items
-* More avatar customization
-* Push notifications
