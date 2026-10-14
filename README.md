@@ -16,7 +16,7 @@ A cozy, social habit tracker built with **React, Vite, and Supabase**.
 
 ### 1. Create a Supabase project
 
-1. Create a free project at [Supabase](https://supabase.com/?utm_source=chatgpt.com).
+1. Create a free project at [Supabase](https://supabase.com/).
 2. Open **SQL Editor → New query**.
 3. Copy and run `supabase/schema.sql`.
 4. Go to **Project Settings → API** and copy your:
